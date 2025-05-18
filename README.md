@@ -1,2 +1,2 @@
-# se7en
+# SQL Project
 passion
